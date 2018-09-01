@@ -1,6 +1,6 @@
 ## Descrição
 
-Trata-se de um projeto Laravel 5.7 alterado para utilizar Vue 2 no lugar de JQuery nas views de registro, login e recuperação de senha do usuário. 
+Trata-se de um projeto Laravel 5.6 alterado para utilizar Vue 2 no lugar de JQuery nas views de registro, login e recuperação de senha do usuário. 
 
 ## Como usar
 
