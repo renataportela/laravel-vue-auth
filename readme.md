@@ -8,6 +8,7 @@ Trata-se de um projeto Laravel 5.7 alterado para utilizar Vue 2 no lugar de JQue
 - cd laravel-vue-auth
 - composer install
 - configure o .env com os dados da sua base e os dados de smtp
+- php artisan migrate
 - npm install
 - npm run dev
 - php artisan serve
